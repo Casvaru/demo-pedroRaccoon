@@ -95,7 +95,7 @@ body{
 .leftEyePedro{
   width: 300px; height: 300px;
   position: absolute;
-  background: wheat;
+  background: white;
   z-index: 10;
   clip-path: polygon(55% 43%, 58% 44%, 60% 46%, 59% 49%, 57% 50%, 52% 49%, 50% 49%, 51% 46%, 53% 44%);
 }
